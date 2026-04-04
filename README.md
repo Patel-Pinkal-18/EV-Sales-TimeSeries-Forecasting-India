@@ -72,24 +72,24 @@ EV-Sales-Forecasting-ML/
 
 ├── notebooks/
 
-  └── EV Sales Forecasting.ipynb
+|  └── EV Sales Forecasting.ipynb
 
 
 ├── screenshots/
 
-  ├── eda_yearly_ev_sales.png
+|  ├── eda_yearly_ev_sales.png
 
-  ├── eda_demand_over_time.png
+|  ├── eda_demand_over_time.png
 
-  ├── model_performance.png
+|  ├── model_performance.png
 
-  ├── avtual_vs_predicted_ev_sales.png
+|  ├── avtual_vs_predicted_ev_sales.png
 
-  └── forecast_plot.png
+|  └── forecast_plot.png
 
 ├── outputs/
 
-  └── forecast_output.csv
+|  └── forecast_output.csv
 
 
 ├── README.md
@@ -159,16 +159,20 @@ Suitable for real-world demand forecasting applications
 📊 Visual Results
 
 📊 EDA - Yearly EV Sales Trend
+
 ![Model Comparison](screenshots/eda_yearly_ev_sales.png)
 
 📈 EDA - Demand Over Time 
-![Model Comparison](screenshots/eda_yearly_ev_sales.png)
+
+![Model Comparison](screenshots/eda_demand_over_time.png)
 
 📈 Model Performance Comparison
+
 ![Model Comparison](screenshots/model_performance.png)
 
 📉 Actual vs Predicted EV Sales
-![Forecast Plot](screenshots/eda_yearly_ev_sales.png)
+
+![Forecast Plot](screenshots/actual_vs_predicted_ev_sales.png)
 
 📈 Forecast_Plot
 ![Forecast Plot](screenshots/forecast_plot.png)
