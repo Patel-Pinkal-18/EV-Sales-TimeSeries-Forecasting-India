@@ -70,13 +70,11 @@ EV Sales Quantity (Target Variable)
 
 EV-Sales-Forecasting-ML/
 
-│
 
 ├── notebooks/
 
 │   └── EV Sales Forecasting.ipynb
 
-│
 
 ├── screenshots/
 
@@ -95,7 +93,6 @@ EV-Sales-Forecasting-ML/
 
 │   └── forecast_output.csv
 
-│
 
 ├── README.md
 
