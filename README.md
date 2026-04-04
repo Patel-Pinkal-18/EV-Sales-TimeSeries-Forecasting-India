@@ -75,6 +75,10 @@ EV-Sales-Forecasting-ML/
 
 │ └── EV Sales Forecasting.ipynb
 
+├── outputs/
+
+│ └── forecast_output.csv
+
 ├── screenshots/
 
 │ ├── eda_yearly_ev_sales.png
@@ -87,15 +91,24 @@ EV-Sales-Forecasting-ML/
 
 │ └── forecast_plot.png
 
-├── outputs/
+├── src/
 
-│ └── forecast_output.csv
+│ ├── data_preprocessing.py
+
+│ ├── feature_engineering.py
+
+│ ├── predict.py
+
+│ ├── train.py
+
+
+├── EV Sales Forecasting & Market Analysis Presentation.pdf
 
 ├── README.md
 
 ├── requirements.txt
 
-├── EV Sales Forecasting & Market Analysis Presentation.pdf
+
 
 
 ---
