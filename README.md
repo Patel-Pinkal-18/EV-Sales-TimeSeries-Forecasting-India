@@ -70,28 +70,26 @@ EV Sales Quantity (Target Variable)
 
 EV-Sales-Forecasting-ML/
 
-
 ├── notebooks/
 
-│   └── EV Sales Forecasting.ipynb
+  └── EV Sales Forecasting.ipynb
 
 
 ├── screenshots/
 
-|   ├── eda_yearly_ev_sales.png
+  ├── eda_yearly_ev_sales.png
 
-│   ├── eda_demand_over_time.png
+  ├── eda_demand_over_time.png
 
-|   ├── model_performance.png
+  ├── model_performance.png
 
-│   ├── avtual_vs_predicted_ev_sales.png
+  ├── avtual_vs_predicted_ev_sales.png
 
-│   └── forecast_plot.png
+  └── forecast_plot.png
 
-│
 ├── outputs/
 
-│   └── forecast_output.csv
+  └── forecast_output.csv
 
 
 ├── README.md
