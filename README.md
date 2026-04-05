@@ -277,6 +277,12 @@ This project demonstrates how machine learning can be applied to real-world prob
 
 ---
 
+## 👨‍💻 Author
+**Pinkal Patel**  
+🎓 B.Tech IT | 📊 Data Analytics & Machine Learning Enthusiast 
+
+---
+
 ## ⭐ How to Run
 
 ```bash
